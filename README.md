@@ -7,7 +7,7 @@
 <p align='center'> Full-stack Developer | Node/React developer | Web developer</p>
 
 **About Me**
-<p align='left'>Hey there! I'm a seasoned software developer with a strong grip on JAVA, which I use to create solid backend solutions. I'm pretty handy with the MERN stack, crafting dynamic and responsive web pages. Plus, I've got some skills in making software systems more scalable, reliable, and functional by tinkering with cloud technologies.</p>
+<p align='left'>Hey there! I'm a passionate software developer with a strong background in Java for building robust backend solutions and expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) to create dynamic and responsive web applications. Additionally, I possess skills in leveraging cloud technologies to enhance the scalability, reliability, and functionality of software systems.</p>
 Programmer specialized in building <strong>software solutions</strong> , I pay a lot of attention to detail to generate the <strong>best products</strong>. 
 <p></p>
 
