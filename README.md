@@ -9,9 +9,8 @@
 Programmer specialized in building <strong>software solutions</strong> , I pay a lot of attention to detail to generate the <strong>best products</strong>. 
 <p></p>
 
-💻 **Languages and Tools:** 🛠️<br>
+💻 **Technologies I Am Skilled In  🛠️<br>
 
-Programming Languages: <br>
 <div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
@@ -21,39 +20,29 @@ Programming Languages: <br>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/scss.svg" width="50"></a>
-</div>
-Frameworks: 
-<div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg" width="50"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" width="50"></a>
-    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50"></a>
-</div>
-Libraries: 
+</div> 
  <div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redux-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/materialui-dark.svg" width="50"></a>
-</div>
-Database: 
-<div align="center">
+ <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
-</div>
-Cloud: 
-<div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecp-dark.svg" width="50"></a>
-</div>
-Tools: 
-<div align="center">
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
+     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
       <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="50"></a>
       <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/terraform-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
+</div>
+<div align="center">
+  
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="50"></a>
       <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
@@ -61,9 +50,6 @@ Tools:
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven-dark.svg" width="50"></a>
       <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="50"></a>
-</div>
-OS: 
-<div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="50"></a>
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/macos-dark.svg" width="50"></a>
