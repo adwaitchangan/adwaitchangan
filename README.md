@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adwait+Changan...;Nice+to+meet+you!&center=true&size=25">
 </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align='center'> Full-stack Developer | Node/React developer | Web developer</p>
+<h3 align='center'> Grad Student @Northeastern University, Boston, MA </h3>
+<h4 align='center'> Full Stack Software Engineer | DevOps engineer </h4>
 
 **About Me**
 <p align='left'>Hey there! I'm a passionate software developer with a strong background in Java for building robust backend solutions and expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) to create dynamic and responsive web applications. Additionally, I possess skills in leveraging cloud technologies to enhance the scalability, reliability, and functionality of software systems.</p>
@@ -52,7 +52,7 @@ Tools: <br>
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Object-Oriented Programming`, `Data structures and algorithms`
+`Responsive web design`, `Object-Oriented Programming`, `Data structures and algorithms`, `Devops` 
 
 📝 ***Feel free to contact me...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
