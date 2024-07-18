@@ -62,6 +62,6 @@ Programmer specialized in building <strong>software solutions</strong> , I pay a
 📝 ***Feel free to reach me...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <div align="left">
   <a href="https://www.linkedin.com/in/adwaitchangan" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="35"></a>
-  <a href="mailto:changan.a@northeastern.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="120" height="35"></a>
+  <a href="mailto:changan.a@northeastern.edu" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="135" height="35"></a>
 </div>
 
