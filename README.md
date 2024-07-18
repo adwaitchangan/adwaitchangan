@@ -22,43 +22,52 @@ Programming Languages: <br>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/scss.svg" width="50"></a>
 </div>
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3) <br>
-Frameworks: <br>
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-black?style=flat-square)
-![Testcafe](https://img.shields.io/badge/-Testcafe-black?style=flat-square)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square) <br>
-Libraries: <br>
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui) <br>
-Database: <br>
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) <br>
-Cloud: <br>
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure) <br>
-Tools: <br>
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=power-bi)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira-software)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apache-maven)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) <br>
+Frameworks: 
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/spring-dark.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50"></a>
+</div>
+Libraries: 
+ <div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redux-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/materialui-dark.svg" width="50"></a>
+</div>
+Database: 
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
+</div>
+Cloud: 
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecp-dark.svg" width="50"></a>
+</div>
+Tools: 
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
+      <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kubernetes-dark.svg" width="50"></a>
+      <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/terraform-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="50"></a>
+      <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
+      <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven-dark.svg" width="50"></a>
+      <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="50"></a>
+</div>
+OS: 
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/macos-dark.svg" width="50"></a>
+</div>
 
 🧐 **Knowledge of:**<br>
 
