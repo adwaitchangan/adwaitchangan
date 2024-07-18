@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adwait+Changan...;Nice+to+meet+you!&center=true&size=25">
 </h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align='center'> Full-stack Developer | Node/React developer | Web developer</p>
 
 **About Me**
