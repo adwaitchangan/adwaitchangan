@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adwait+Changan...;Nice+to+meet+you!&center=true&size=25">
-  </a>
 </h1>
 
 <p align='center'> Full-stack Developer | Node/React developer | Web developer</p>
