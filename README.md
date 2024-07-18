@@ -12,6 +12,16 @@ Programmer specialized in building <strong>software solutions</strong> , I pay a
 💻 **Languages and Tools:** 🛠️<br>
 
 Programming Languages: <br>
+<div align="center">
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
+    <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/scss.svg" width="50"></a>
+</div>
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
